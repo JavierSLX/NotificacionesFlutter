@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104919083760",
+    "firebase_url": "https://pushflutter-ef075.firebaseio.com",
+    "project_id": "pushflutter-ef075",
+    "storage_bucket": "pushflutter-ef075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104919083760:android:496d9021e1a11155587035",
+        "android_client_info": {
+          "package_name": "com.example.pushflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104919083760-dspb6j3l2e8n0nnupo3tq06434877fmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushflutter",
+            "certificate_hash": "711663dda9f71cb03b88e5d50418ea883e1d53d1"
+          }
+        },
+        {
+          "client_id": "104919083760-80m4715f9v2l6fjmv9ejqtfprcgemtjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkx4mC4iBsKxMCxAYYp3Mk8pmcTDZ5c1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104919083760-80m4715f9v2l6fjmv9ejqtfprcgemtjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
